@@ -9,7 +9,7 @@
 I'm a Systems Analysis and Development student with a strong focus on Web Development and Database Administration. I am passionate about building efficient web solutions, optimizing databases, and solving real-world problems through clean and scalable code.
 
 <!-- Lembre-se de subir a imagem do seu avatar para o GitHub e colar o link dela no src abaixo -->
-<img align="right" src="https://ibb.co/HTbs2KKR" width="200"/>
+<img align="right" src="Gemini_Generated_Image_zeyynbzeyynbzeyy-removebg-preview.png" width="200"/>
 
 ---
 
